@@ -1,6 +1,6 @@
 # Puros providers
 
-Providers connect [Puros](https://github.com/purosapp), a macOS music player built for audio quality, to streaming services. Each provider is a separate package that you install into Puros; Puros keeps your library, queue, decoding, DSP and audio output, and the provider handles sign-in, the service's catalog and preparing audio files.
+Providers connect [Puros](https://github.com/purosapp/purosapp), a macOS music player built for audio quality, to streaming services. Each provider is a separate package that you install into Puros; Puros keeps your library, queue, decoding, DSP and audio output, and the provider handles sign-in, the service's catalog and preparing audio files.
 
 This list links every known provider. To build your own, see the [Provider SDK](https://github.com/purosapp/puros-provider-sdk).
 
